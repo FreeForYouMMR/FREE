@@ -11,7 +11,30 @@
 
 
 
-## COMMAND
+
+
+## FILE CREATE
+
+1. 
+    ```sh
+    git clone https://github.com/Hannan-404/FILE
+    ```
+
+2. 
+    ```sh
+    cd FILE 
+    ```
+
+3. 
+    ```sh
+    python FILE.py
+    ```
+
+
+
+
+    
+## FILE CLONE
 
 1. 
     ```sh
