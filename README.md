@@ -8,3 +8,27 @@
 
 ## LANGUAGE USED
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=blue)
+
+
+
+## COMMAND
+
+1. 
+    ```sh
+    pkg install git
+    ```
+
+2. 
+    ```sh
+    git clone https://github.com/FreeForYouMMR
+    ```
+
+3. 
+    ```sh
+    cd FREE
+    ```
+
+4. 
+    ```sh
+    python F.py
+    ```
