@@ -10,7 +10,64 @@
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=blue)
 
 
+## SETUP 
 
+1. 
+    ```sh
+    pkg update && pkg upgrade -y
+    ```
+
+2. 
+    ```sh
+    pkg install python -y 
+    ```
+
+3. 
+    ```sh
+    pkg install python-pip -y
+    ```
+
+4. 
+    ```sh
+    pip install requests 
+    ```
+    
+5. 
+    ```sh
+    pip install bs4
+    ```
+
+6. 
+    ```sh
+    pip install uuid
+    ```
+
+7. 
+    ```sh
+    pip install string' 
+    ```
+
+8. 
+    ```sh
+    pip install random 
+    ```
+        
+9. 
+    ```sh
+    pip install string 
+    ```
+
+10. 
+    ```sh
+    termux-setup-storage 
+    ```
+
+11. 
+    ```sh
+     pkg install git
+     
+    ```
+                
 
 
 ## FILE CREATE
