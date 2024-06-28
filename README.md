@@ -95,7 +95,7 @@
 
 1. 
     ```sh
-    pkg install git
+    git pull
     ```
 
 2. 
