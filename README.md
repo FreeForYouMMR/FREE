@@ -44,7 +44,7 @@
 
 7. 
     ```sh
-    pip install string' 
+    pip install string
     ```
 
 8. 
@@ -100,7 +100,7 @@
 
 2. 
     ```sh
-    git clone https://github.com/FreeForYouMMR
+    git clone https://github.com/FreeForYouMMR/FREE
     ```
 
 3. 
